@@ -5,7 +5,7 @@
 
  **Discord:** *UndeaD#4444*
 
- **Enail:** [Valebe10098@gmnail.com](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRvwTnFbdJWwHQSQFwpwQzhlPgtDzNDkZfQpHVZmhJWZQxqQfklDgRxxjCSnnwHRldDlQwB)
+ **Email:** [Valebe10098@gmnail.com](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRvwTnFbdJWwHQSQFwpwQzhlPgtDzNDkZfQpHVZmhJWZQxqQfklDgRxxjCSnnwHRldDlQwB)
 
  **Skype:** *Vlad-wow321*
 
@@ -17,6 +17,7 @@
 26 old, first time trying coding, work community manager and like play pc games
 
  ## *Skills*
+
 I don't know programming languages, but I understand a little JS, python, BUT futere
 * GitHub
 * Python
