@@ -17,7 +17,7 @@
 26 old, first time trying coding, work community manager and like play pc games
 
  ## *Skills*
-
+ 
 I don't know programming languages, but I understand a little JS, python, BUT futere
 * GitHub
 * Python
