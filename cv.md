@@ -3,7 +3,7 @@
 ## *Сontacts*
 *My contacts:*
 
- **Discord:** *UndeaD#4444*
+ **Discord:**  *UndeaD#4444*
 
  **Email:** [Valebe10098@gmnail.com](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRvwTnFbdJWwHQSQFwpwQzhlPgtDzNDkZfQpHVZmhJWZQxqQfklDgRxxjCSnnwHRldDlQwB)
 
@@ -16,7 +16,7 @@
 ## *About me*
 26 old, first time trying coding, work community manager and like play pc games
 
- ## *Skills*
+## *Skills*
  
 I don't know programming languages, but I understand a little JS, python, BUT futere
 * GitHub
@@ -32,10 +32,10 @@ function multiply(a, b) {
 }
 ```
 
- ## *Work experience*
+## *Work experience*
  No work in IT, no experience, I believe I will be working soon
-
- ## *Education*
+ 
+## *Education*
  *Student*
 
 ## *Languages*
