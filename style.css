@@ -1,0 +1,155 @@
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+}
+  
+  body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+  
+  ol, ul {
+    list-style: none;
+}
+  
+  img {
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    font-family: 'League Spartan', sans-serif;
+}
+
+.header-con{
+    display: flex;
+    padding-top: 55px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 55px;
+    background-color: #181818;
+    color: #037070;
+    
+}
+
+.header-title{
+    font-size: 170px;
+    padding-left: 250px;
+}
+
+.header-stitle{
+    font-size: 70px;
+    padding-left: 350px;
+}
+
+.main{
+    background-color: #2a2a2a;
+    color: #ffd800;
+}
+
+.firstblock{
+    padding-top: 5px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 5px;
+    color: #037070;
+    font-size: 11;
+}
+
+.secondblock{
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 15px;
+    color: #037070;
+    font-size: 35px;
+}
+
+.tblock{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 30px;
+    color: #037070;
+}
+.Skills{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 30px;
+    color: #ffd800;
+}
+
+.contacts{
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.stroki{
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+
+.About{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 30px;
+    color: #ffd800;
+}
+
+.Skillsp{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 30px;
+    color: #7bd030;
+}
+
+.code{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 30px;
+    color: #037070;
+}
+
+.functuin{
+ width: 555px;
+ border: #d87bcc;
+ border-width: 5px;
+ text-align: center;
+ border-style: solid;
+ border-top-style: solid;
+ margin-left: auto;
+ margin-right: auto;
+
+}
+
+.work{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 30px;
+    color: #ffd800;
+}
+
+.footer{
+    display: flex;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #181818;
+    color: #037070;
+    height: 150px;
+}
+
+.year{
+    text-align: center;
+}
