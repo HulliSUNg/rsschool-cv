@@ -28,13 +28,13 @@ body {
 
 .header-con{
     display: flex;
-    width: 1440;
     padding-top: 55px;
     padding-left: 200px;
     padding-right: 200px;
     padding-bottom: 55px;
     background-color: #181818;
     color: #037070;
+    
 }
 
 .header-title{
@@ -53,7 +53,6 @@ body {
 }
 
 .firstblock{
-    width: 1440;
     padding-top: 5px;
     padding-left: 200px;
     padding-right: 200px;
@@ -107,5 +106,29 @@ body {
 }
 
 .Skillsp{
-    
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 30px;
+    color: #d85e5e;
+}
+
+.code{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 30px;
+    color: #037070;
+}
+
+.functuin{
+ width: 555px;
+ border: #d85e5e;
+ border-width: 5px;
+ text-align: center;
+ border-style: solid;
+ border-top-style: solid;
+ margin-left: auto;
+ margin-right: auto;
+
 }
