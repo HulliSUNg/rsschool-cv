@@ -88,13 +88,13 @@ body {
 
 .contacts{
     text-align: center;
-    font-size: 35px;
+    font-size: 25px;
 
 }
 
 .stroki{
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 11px;
+    padding-bottom: 11px;
 }
 
 .About{
@@ -110,7 +110,7 @@ body {
     padding-top: 15px;
     padding-bottom: 15px;
     font-size: 30px;
-    color: #d85e5e;
+    color: #7bd030;
 }
 
 .code{
@@ -123,7 +123,7 @@ body {
 
 .functuin{
  width: 555px;
- border: #d85e5e;
+ border: #d87bcc;
  border-width: 5px;
  text-align: center;
  border-style: solid;
@@ -131,4 +131,25 @@ body {
  margin-left: auto;
  margin-right: auto;
 
+}
+
+.work{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 30px;
+    color: #ffd800;
+}
+
+.footer{
+    display: flex;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #181818;
+    color: #037070;
+    height: 150px;
+}
+
+.year{
+    text-align: center;
 }
